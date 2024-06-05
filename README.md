@@ -24,12 +24,12 @@ Narrow down your search effortlessly with our powerful filtering system. Filter 
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/laptop-sales.git
+git clone https://github.com/Sohag00879/laphub-client.git
 
+
+###Install Dependencies:
 ```bash
-Install Dependencies:
-
-cd laptop-sales
+cd laphub-client
 npm install
 
 Run the Development Server:
