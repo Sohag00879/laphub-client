@@ -24,7 +24,8 @@ Narrow down your search effortlessly with our powerful filtering system. Filter 
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/Sohag00879/laphub-client.git
+git clone https://github.com/your-username/laptop-sales.git
+
 
 
 Install Dependencies:
