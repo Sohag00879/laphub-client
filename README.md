@@ -82,7 +82,7 @@ git clone https://github.com/your-username/laptop-sales.git
 
 
 
-###Install Dependencies:
+<h1>Install Dependencies:</h1>
 
 cd laphub-client
 npm install
