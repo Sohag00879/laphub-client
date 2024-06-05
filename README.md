@@ -1,4 +1,4 @@
-Laptop Sales E-commerce Platform
+<b>Laptop Sales E-commerce Platform</b>
 Welcome to our Laptop Sales E-commerce Platform! This project aims to provide users with a seamless experience for purchasing laptops online. Whether you're a casual buyer looking for the latest deals or a brand-conscious shopper seeking your favorite manufacturers, our platform has got you covered.
 
 Features
