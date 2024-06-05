@@ -25,3 +25,8 @@ Narrow down your search effortlessly with our powerful filtering system. Filter 
 
 ```bash
 git clone https://github.com/your-username/laptop-sales.git
+
+###Install Dependencies:
+cd laptop-sales
+npm install
+
