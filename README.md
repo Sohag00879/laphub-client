@@ -78,7 +78,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ### Clone the Repository:
 
-git clone https://github.com/your-username/laptop-sales.git
+git clone https://github.com/Sohag00879/laphub-client.git
 
 
 
