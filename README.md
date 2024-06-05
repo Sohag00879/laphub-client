@@ -19,29 +19,6 @@ Make informed decisions with access to detailed product descriptions, including 
 ### Powerful Filtering System
 Narrow down your search effortlessly with our powerful filtering system. Filter by price range, brand name, and customer ratings to find laptops that perfectly match your needs and budget.
 
-## Running the Project Locally
-
-### Clone the Repository:
-
-git clone https://github.com/your-username/laptop-sales.git
-
-
-
-Install Dependencies:
-
-cd laphub-client
-npm install
-
-Run the Development Server:
-
-npm run dev
-
-Open in Your Browser:
-
-Visit http://localhost:3000 to view the application.
-
-That's it! You should now have the project up and running on your local machine.
-
 <b>Technologies Used</b>
 
 # Web Development Technologies Overview
@@ -94,7 +71,30 @@ A minimal and flexible Node.js web application framework that provides a robust 
 
 A NoSQL database program that uses a document-oriented data model. It is designed for scalability and flexibility, allowing you to store data in JSON-like documents.
 
-###Contributing
+##Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request. We appreciate any feedback or suggestions for improving the platform
+
+## Running the Project Locally
+
+### Clone the Repository:
+
+git clone https://github.com/your-username/laptop-sales.git
+
+
+
+###Install Dependencies:
+
+cd laphub-client
+npm install
+
+###Run the Development Server:
+
+npm run dev
+
+###Open in Your Browser:
+
+Visit http://localhost:3000 to view the application.
+
+That's it! You should now have the project up and running on your local machine.
 
 
