@@ -82,16 +82,16 @@ git clone https://github.com/your-username/laptop-sales.git
 
 
 
-<h1>Install Dependencies:</h1>
+<h5>Install Dependencies:</h1>
 
 cd laphub-client
 npm install
 
-###Run the Development Server:
+<h5>Run the Development Server:</h5>
 
 npm run dev
 
-###Open in Your Browser:
+<h5>Open in Your Browser:</h5>
 
 Visit http://localhost:3000 to view the application.
 
